@@ -36,7 +36,6 @@
 <div>
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-  <img src="https://www.eng.kmutnb.ac.th/wp-content/uploads/2020/12/logo-kmutnb-final-800x214.jpg" width="80" height="28"/>
 <div>
   
 
