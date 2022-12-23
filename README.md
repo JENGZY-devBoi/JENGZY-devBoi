@@ -39,14 +39,10 @@
 <div>
   
 
-<h2>Follow me on:</h2>
+<h2>Contact</h2>
 <div>
-  <a href="https://web.facebook.com/profile.php?id=100006495621806" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/jengzy_/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  Email: 
+  <a href="mailto:teerapong.saisrikaew250819@gmail.com">teerapong.saisrikaew250819@gmail.com</a>
 <div>
 
 <!--
