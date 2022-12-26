@@ -37,13 +37,6 @@
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <div>
-  
-
-<h2>Contact</h2>
-<div>
-  Email: 
-  <a href="mailto:teerapong.saisrikaew250819@gmail.com">teerapong.saisrikaew250819@gmail.com</a>
-<div>
 
 <!--
 **JENGZY-devBoi/JENGZY-devBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
