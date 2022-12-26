@@ -1,54 +1,23 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" heigth="30">, I am JENG!
+# Hi there! 👋🏼, I am JENG
 
-<br>
-<h2>Tech Stacks:</h2>
-<!-- <div align="center"> -->
-<div>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> -->
-  <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+```javascript
+const profile = {
+  name:       'Teerapong Saisrikaew',
+  nickname:   'Jeng',
+  email:      'teerapong.saisriakeaw250819@gmail.com',
+  graduated:  'Mathematics with Computer Science',
+  studentAt:  'KMUTNB',
+  favJob:     ['Front-end Developer', 'UX/UI Designer']
+}
+```
+### Learning / Improving on
+
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=8bc34a" alt="React logo" title="React" height="25" />
+  <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=8bc34a" alt="Redux logo" title="Redux" height="25" />
+  <img src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=8bc34a" alt="Javascript logo" title="Javascript" height="25" />
+  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=8bc34a" alt="HTML5 logo" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=8bc34a" alt="CSS3 logo" title="CSS3" height="25" />
 </div>
 
 
-<h2>IDE and Workspace Spec:</h2>
-<div>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white"/>
-<div>
-  
-
-<h2>Education:</h2>
-<div>
-  <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-<div>
-
-<!--
-**JENGZY-devBoi/JENGZY-devBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
