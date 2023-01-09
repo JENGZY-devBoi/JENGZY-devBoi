@@ -7,7 +7,6 @@ const profile = {
   age:        20,
   graduated:  'Mathematics with Computer Science',
   studentAt:  'KMUTNB',
-  favJob:     ['Front-end Developer', 'UX/UI Designer']
 }
 ```
 ### Learning / Improving on
