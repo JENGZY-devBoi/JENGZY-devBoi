@@ -19,4 +19,6 @@ const profile = {
   <br />
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=8bc34a" alt="CSS3 logo" title="CSS3" height="25" />
   <img src="https://img.shields.io/badge/SASS-282C34?logo=sass&logoColor=8bc34a" alt="SASS logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/.NET-282C34?logo=csharp&logoColor=8bc34a" alt="C# logo" title="C#" height="25" />
+  <img src="https://img.shields.io/badge/tailwindcss-282C34?logo=tailwindcss&logoColor=8bc34a" alt="tailwind logo" title="tailwind" height="25" />
 </div>
