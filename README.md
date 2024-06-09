@@ -4,7 +4,7 @@
 const profile = {
   name:       'Teerapong Saisrikaew',
   nickname:   'Jeng',
-  age:        20,
+  age:        22,
   graduated:  'Mathematics with Computer Science',
   studentAt:  'KMUTNB',
 }
