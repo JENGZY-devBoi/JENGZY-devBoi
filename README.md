@@ -4,9 +4,15 @@
 const profile = {
   name:       'Teerapong Saisrikaew',
   nickname:   'Jeng',
-  age:        23,
-  graduated:  'Mathematics with Computer Science',
-  studentAt:  'KMUTNB',
+  age:        24,
+  graduated:  [
+    'Mathematics with Computer Science',
+    'Master of Science Programme in Software Engineering for Artificial Intelligence'
+  ],
+  studentAt:  [
+    'KMUTNB',
+    'KMUTT'
+  ]
 }
 ```
 ### Learning / Improving on
